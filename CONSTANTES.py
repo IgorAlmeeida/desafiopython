@@ -1,4 +1,5 @@
 dictUnidade = {
+    '0' : '',
     '1': "um",
     '2': "dois",
     '3': "três",
@@ -24,6 +25,7 @@ dictDezenasEspeciais = {
 }
 
 dictDezenas = {
+    '0': "",
     '2': "vinte",
     '3': "trinta",
     '4': "quarenta",
@@ -40,6 +42,7 @@ dictCentenasEspeciais ={
 }
 
 dictCentenas = {
+    '0': '',
     '2': "duzentos",
     '3': "tresentos",
     '4': "quatrocentos",
